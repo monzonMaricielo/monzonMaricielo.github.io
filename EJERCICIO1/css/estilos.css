@@ -1,0 +1,54 @@
+body {
+    background-color: blue;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+#contenedor {
+    margin: auto;
+    width: 80%;
+    height: 300px;
+    padding: 30px;
+    background-color: white;
+}
+
+#cuerpo {
+    float: left;
+}
+
+img {
+    width: 200px;
+    margin-left: 0px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    border: 2px;
+    float: left;
+}
+
+h1 {
+    color: red;
+    padding-bottom: 20px;
+
+
+}
+
+
+
+
+
+
+/*#caja {
+    float: left; 
+    width: 80%; 
+    margin: auto; 
+    background-color: white;
+    padding: 30px;
+}
+
+p {
+    text-align: justify;
+}
+
+.contenedor
